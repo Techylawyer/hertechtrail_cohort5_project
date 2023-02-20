@@ -16,13 +16,14 @@
 	.navbar-dark .navbar-toggler{
 		color: rgba(255,255,255);
 		border-color: rgba(255,255,255);
+
 	}
 	.navbar-shrink.navbar-dark .navbar-toggler{
 		color: rgba(51,51,51);
 		border-color: rgba(51,51,51);
 	}
 	#mainNav.navbar-shrink .navbar-nav .nav-link.active{
-		color: #333333;
+		color: #430830;
 	}
 	.heading h1{
 		font-size: 28px;
