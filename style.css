@@ -393,14 +393,17 @@ a img.aligncenter {
 	color: #fff;
 	display: table-cell;
 	vertical-align: middle;
-	position: relative;
+    position: relative;
+    
 	z-index: 1;
 }
 .heading h1{
-	color: #ffffff;
+	font-family: Satisfy;
+    color: #ffffff;
 	font-weight: 700;
 	font-size: 62px;
 	text-transform: capitalize;
+    padding-top: 300px;
 }
 .heading p{
 	font-size: 18px;
@@ -408,7 +411,7 @@ a img.aligncenter {
 }
 
 .heading h3{
-	color: ffffff;
+	color: #ffffff;
 }
 
 .cd-words-wrapper {
