@@ -7,7 +7,6 @@
 -------------------------------------------------------------------*/
 
 @import url('https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800');
-
 @import url('https://fonts.googleapis.com/css?family=Satisfy:100,200,300,400,500,600,700,800');
 /*------------------------------------------------------------------
     IMPORT FILES
@@ -25,8 +24,7 @@
 -------------------------------------------------------------------*/
 
 body {
-    /* color: #705c3d; */
-    color:#7a2b61
+    color:#7a2b61;
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
     line-height: 1.80857;
@@ -520,32 +518,22 @@ xclip
 
 .section.wb {
     background-color: #d9cab2;
-    background:  linear-gradient(90deg, #eeaeca 0%, rgba(43,57,73,0.3368697820925245) 100%);
-    /* background: rgb(49,35,12);
-background: linear-gradient(90deg, rgba(49,35,12,0.39289219105610995) 0%, rgba(217,202,178,1) 100%); */
+    background:  linear-gradient(90deg, #eeaeca 0%, #2b394956 100%);
 }
 
 .section.lb {
     background-color: #b3a184;
-    background:  linear-gradient(90deg, #eeaeca 0%, rgba(43,57,73,0.3368697820925245) 100%);
-    /* background: rgb(49,35,12);
-background: linear-gradient(90deg, rgba(49,35,12,0.39289219105610995) 0%, rgba(217,202,178,1) 100%); */
+    background:  linear-gradient(90deg, #eeaeca 0%, #2b394956 100%);
 }
 
 .section.db {
     background-color: #caccce;
-    background:  linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(43,57,73,0.3368697820925245) 100%);
-    /* background: rgb(49,35,12);
-background: linear-gradient(90deg, rgba(49,35,12,0.39289219105610995) 0%, rgba(217,202,178,1) 100%); */
+    background:  linear-gradient(90deg, #eeaeca 0%, #2b394956 100%);
 }
 
 .section.pb {
     background-color: 	#d9d3cf;
     background:  linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(43,57,73,0.3368697820925245) 100%);
-    /* background: rgb(49,35,12);
-    background: linear-gradient(90deg, rgba(49,35,12,0.39289219105610995) 0%, rgba(217,202,178,1) 100%);
-    background: rgb(49,35,12);
-background: linear-gradient(90deg, rgba(49,35,12,0.39289219105610995) 0%, rgba(179,161,132,1) 100%); */
 }
 
 .section.color1 {
@@ -703,7 +691,7 @@ background: linear-gradient(90deg, rgba(49,35,12,0.39289219105610995) 0%, rgba(1
 
 .services-inner-box{
 	padding: 15px;
-	background: #ffffff;
+	background: #feeded;
 	margin-bottom: 30px;
 	border-radius: 50px 50px 0px 50px;
 	position: relative;
@@ -2215,7 +2203,7 @@ select.mobile-device {
 .contact_form {
     border: 1px solid #ededed;
     box-shadow: 0 5px 14px rgba(0, 0, 0, 0.1);
-    background-color: #f2f3f5;
+    background-color: #feeded;
     padding: 40px 30px;
 }
 
@@ -2551,7 +2539,7 @@ select.mobile-device {
     color: #999 !important;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 .stat-wrap p {
@@ -2560,7 +2548,7 @@ select.mobile-device {
     margin: 0;
     font-weight: 300;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {

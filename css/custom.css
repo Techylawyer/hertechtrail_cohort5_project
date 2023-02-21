@@ -11,7 +11,7 @@
     line-height: 50px;
     border-radius: 50%;
     border: 1px solid #430830;
-    background: #fdfafa;
+    background: #feeded;
     font-size: 25px;
     color: #6f1252;
     text-align: center;
@@ -28,7 +28,6 @@
         height: 30px;
         line-height: 30px;
         font-size: 15px;
-        color: #6f1252;
     }
     
     .fa:hover {
@@ -36,3 +35,10 @@
     }   
 }
 
+.hide {
+    display: none;
+  }
+      
+  .portfolio:hover + .hide {
+    display: block;
+  }
