@@ -1,1 +1,1 @@
-# hertechtrail_cohort5_project
+# Capstone Project for Frontend Web Development (starter) Course by *HerTechTrail Foundation*
