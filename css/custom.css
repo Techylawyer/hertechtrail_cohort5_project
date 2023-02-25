@@ -39,6 +39,6 @@
     display: none;
   }
       
-  .portfolio:hover + .hide {
+  .header:hover + .hide {
     display: block;
   }
